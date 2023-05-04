@@ -15,3 +15,5 @@ dist
 dump.rdb
 .vscode/
 .history/
+
+.\ColorBlog\ColorVenv
